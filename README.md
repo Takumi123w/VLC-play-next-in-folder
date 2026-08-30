@@ -2,17 +2,12 @@
 Not lua since not work in my system for not reason
 
 Make sure vlc installed
-
 sudo pacman -S vlc
-
 or
-
 sudo apt install vlc
 
 clone this git
-
 git clone https://github.com/Takumi123w/VLC-play-next-in-folder.git
-
 cd VLC-play-next-in-folder
 
 
